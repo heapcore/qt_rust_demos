@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "examples/widgets_autocxx",
+  "examples/qml_cxxqt",
+]
+resolver = "2"
